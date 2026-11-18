@@ -1,0 +1,54 @@
+/* Global */
+
+.main {
+    background-color: #595959;
+}
+
+h3 {
+    color: #FFFFFF8C; 
+}
+
+/* Header */
+
+/* Navbar */
+
+.navbar, .footer {
+    background-color: #1A1E26;
+}
+
+.navbar-nav .nav-link, .footer{
+    color: #FFFFFF8C;
+}
+
+.custom-toggler {
+    border: 1px solid #FFFFFF8C;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255,255,255,0.8)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.custom-toggler:focus {
+    box-shadow: 0 0 0 0.15rem rgba(255,255,255,0.25);
+}
+
+
+/* About */
+
+#about {
+    background-color: #E5E8EB;
+}
+
+/* Contact */
+
+.contact-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card > .contact-form {
+    background-color: #8C8C8C;
+}
+
+/* Footer */
