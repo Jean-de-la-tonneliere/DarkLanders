@@ -1,0 +1,35 @@
+{
+    "darklandersapi": "0.0.1",
+    "info": {
+        "title": "SimpleDarklandersAPI",
+        "version": "0.0.1",
+        "description": "Resources for a simple website",
+        "license": {
+            "name": "PORCHER Jeanne"
+        }
+    },
+    "concerts": {
+        "0": {
+            "date": "",
+            "title": "",
+            "description": "",
+            "url": "",
+            "time": "",
+            "location": ""
+        },
+        "1": {
+            "date": "",
+            "title": "",
+            "description": "",
+            "url": "",
+            "time": "",
+            "location": ""
+        }
+    },
+    "music-set": {
+        "0": {
+            "title": "",
+            "artist": ""
+        }
+    }
+}
